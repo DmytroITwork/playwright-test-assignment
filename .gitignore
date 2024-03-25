@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Playwright specific files
+test-results/
+**/playwright-report/
+playwright-report/
+*.har
+*.zip

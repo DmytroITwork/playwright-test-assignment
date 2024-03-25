@@ -1,0 +1,23 @@
+- what is good QA?
+
+Good QA is not merely about finding bugs, it's about conducting a meticulous investigation into the software's inner workings. 
+It's also about ability to notice the minutest details, effective QA requires paying close attention to the smallest aspects of the software to ensure nothing is overlooked.
+Good QA always involves applying logical approaches to test scenarios and understanding the software's behavior under various conditions.
+At its core, good quality assurance is the science of ensuring that products meet or exceed customer expectations, acting as a critical bridge between the intricate world of development and the final user experience. 
+It embodies a proactive attitude toward perfection, striving not just to find defects but to embed quality into the very fabric of the product development lifecycle, ensuring reliability, functionality, and user satisfaction from the ground up.
+
+
+- what you love and don’t love about automation QA?
+
+I love that automation in QA offers a dynamic playground for intellectual growth, pushing me to continually hone my problem-solving skills and explore a vast landscape of technologies. 
+It's the thrill of devising innovative solutions and uncovering intriguing aspects of software testing that makes automation endlessly captivating. 
+On the flip side, while I recognize it as an integral part of the learning curve, I find the process of debugging, especially when it leads to prolonged periods of stagnation, to be somewhat taxing. 
+Yet, I acknowledge this challenge as a crucial step towards mastery and improvement in the automation journey.
+
+
+- why you think you are a great QA engineer?
+
+I think that I am a good QA engineer due to my  commitment to quality and innate curiosity that drives me to understand software deeply. 
+My approach to QA is not only about identifying bugs but also foreseeing potential user challenges and ensuring the software is functional, intuitive, and reliable.
+I thrive on the complexities of testing, leveraging my analytical skills to dissect and anticipate issues before they impact the end-user.
+My proactive mindset and continuous pursuit of learning and adapting to new technologies make me a valuable contributor to creating high-quality software products that satisfy users.
